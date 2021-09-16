@@ -14,7 +14,7 @@ menggambar-primitif-Abdunnafi25 created by GitHub Classroom
 #### 4. Mengubah Vertices untuk posisi huruf V
 
 ### Berikut hasil dari mencoba
-![image.png]( {link gambar} )
+![image](https://github.com/cg2021a/menggambar-primitif-Abdunnafi25/blob/main/membuat%20gambar%20V.JPG)
 
 ### Gambar inisialisasi titik huruf V
-![image.png]( {link gambar} )
+![image](https://github.com/cg2021a/menggambar-primitif-Abdunnafi25/blob/main/membuat%20gambar%20V.JPG)
